@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\obj\\Debug\\net8.0\\compressed\\sf9zkoh6v1.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\stupidQuiz.styles.css",
+      "PackagePath": "staticwebassets\\stupidQuiz.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\blazor.css",
+      "PackagePath": "staticwebassets\\css\\blazor.css"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\bootstrap\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\bootstrap\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\css\\bootstrap\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\data\\departments.json",
+      "PackagePath": "staticwebassets\\data\\departments.json"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\funti\\Desktop\\новое\\stupidQuiz\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.stupidQuiz.props",
+      "PackagePath": "build\\stupidQuiz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.stupidQuiz.props",
+      "PackagePath": "buildMultiTargeting\\stupidQuiz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.stupidQuiz.props",
+      "PackagePath": "buildTransitive\\stupidQuiz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.stupidQuiz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
