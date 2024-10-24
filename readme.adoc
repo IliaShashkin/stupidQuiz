@@ -1,4 +1,4 @@
-﻿= stupidQuiz
+﻿= IdiomQuiz
 
 Allows to easily deploy a Blazor WASM application to GitHub Pages.
 
